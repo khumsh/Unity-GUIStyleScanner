@@ -5,5 +5,7 @@
 
 Tools - Scan GUI Styles 에서 확인 가능.
 
+**주의** 반드시 Editor 폴더에 넣어야 함.
+
 ![image](https://github.com/user-attachments/assets/6f1ad611-084a-49c0-b2ef-96ed872618eb)
 ![image](https://github.com/user-attachments/assets/9c6a2d78-d3cf-454f-bfa2-04424ea8c001)
